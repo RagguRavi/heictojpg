@@ -53,7 +53,7 @@ def convert_heic_to_jpg(heic_dir):
     print(f"\nConversion completed successfully. {num_converted} files converted.")
 
 # Provide the directory path containing the HEIC files
-heic_directory = "/path/to/heic"
+heic_directory = "D:\\test\\Photos"
 
 # Convert HEIC to JPG
 convert_heic_to_jpg(heic_directory)
